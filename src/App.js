@@ -1,18 +1,17 @@
-import React, { useState,  } from "react";
+import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "./App.css";
 import NavBar from "./components/NavBar";
 import HeroSection from "./components/HeroSection";
 import BuySection from "./components/BuySection";
 import SellSection from "./components/SellSection";
-import SortOptions from "./components/SortOptions"
-import CommentsSection from "./components/CommentSetion"
+import SortOptions from "./components/SortOptions";
+import CommentsSection from "./components/CommentsSection";
 import CarBrands from "./components/CarBrands";
-import SearchBar from "./components/Searchbar";
+import SearchBar from "./components/SearchBar";
 import CarList from "./components/CarList";
 import Contact from "./components/Contact";
 import About from "./components/About";
-
 
 function App() {
   const [currentPage, setCurrentPage] = useState("home");
@@ -21,9 +20,8 @@ function App() {
   const [showSortOptions, setShowSortOptions] = useState(false);
   const [showCommentsSection, setShowCommentsSection] = useState(true);
   const [sortCriteria, setSortCriteria] = useState("");
-  const [searchTerm, setSearchTerm ] = useState("");
-
-  const navigate = useNavigate()
+  const [searchTerm, setSearchTerm] = useState("");
+  const navigate = useNavigate();
 
   const handleNavClick = (page) => {
     setCurrentPage(page);
@@ -73,22 +71,15 @@ function App() {
             onCommentsClick={handleCommentsClick}
           />
           <CarBrands />
-          <CarList
-            searchTerm={searchTerm}
-            filter="all"
-            sortCriteria={sortCriteria}
-          />
-          
+          <CarList searchTerm={searchTerm} filter="all" sortCriteria={sortCriteria} />
+          {showBuySection && <BuySection sortCriteria={sortCriteria} />}
+          {showSellSection && <SellSection sortCriteria={sortCriteria} />}
+          {showSortOptions && <SortOptions onSortChange={handleSortChange} />}
           {showCommentsSection && <CommentsSection />}
         </>
       )}
-      
     </div>
   );
 }
-
-
-
-
 
 export default App;
