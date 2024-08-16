@@ -188,7 +188,7 @@ function CarList({ searchTerm, filter,sortCriteria }) {
   const [cars, setCars] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:8000/cars')
+    fetch('http://localhost:3000/cars')
       .then(response => response.json())
       .then(data => setCars(data))
       .catch(error => console.error('Error fetching cars:', error));

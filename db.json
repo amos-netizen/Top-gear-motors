@@ -10,7 +10,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Clean title, well-maintained vehicle",
-        "photos": ["https://www.cgtrader.com/3d-models/car/car/toyota-camry-xse-2015"],
+        "photos": ["https://tinyurl.com/ud2b4xf6"],
         "comments": []
       },
       {
@@ -23,7 +23,7 @@
         "transmission": "Manual",
         "fuelType": "Gasoline",
         "description": "Low mileage, one owhttps://www.cgtrader.com/3d-models/car/car/toyota-camry-xse-2015ner",
-        "photos": ["https://hips.hearstapps.com/hmg-prod/images/2018-honda-civic-si-01-placement-1527784465.jpg?crop=1.00xw:0.920xh;0,0.0801xh&resize=1200:*"],
+        "photos": ["https://tinyurl.com/4n4ha8ye"],
         "comments": []
       },
       {
@@ -36,20 +36,20 @@
         "transmission": "Automatic",
         "fuelType": "Diesel",
         "description": "Work truck, clean title",
-        "photos": ["https://www.kbb.com/ford/f150/2012/"],
+        "photos": ["https://tinyurl.com/bdhwn2nb"],
         "comments": []
       },
       {
         "id": 4,
-        "make": "Nissan",
-        "model": "Altima",
+            "make": "Nissan",
+            "model": "Altima",
         "year": 2019,
         "price": 22000,
         "mileage": 10000,
         "transmission": "CVT",
         "fuelType": "Gasoline",
         "description": "Leather seats, sunroof",
-        "photos": ["https://www.digitaltrends.com/cars/2019-nissan-altima-review/"],
+        "photos": ["https://tinyurl.com/2w2f9fdw"],
         "comments": []
       },
       {
@@ -62,20 +62,20 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "4WD, crew cab",
-        "photos": ["https://www.cars.com/research/chevrolet-silverado_1500-2016/specs/378222/"],
+        "photos": ["https://tinyurl.com/yc4s89m6"],
         "comments": []
       },
       {
         "id": 6,
-        "make": "Hyundai",
-        "model": "Elantra",
+          "make": "Hyundai",
+          "model": "Elantra",
         "year": 2017,
         "price": 14000,
         "mileage": 60000,
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Clean title, low mileage",
-        "photos": ["https://www.jdpower.com/cars/2017/hyundai/elantra"],
+        "photos": ["https://tinyurl.com/ypvp2c5y"],
         "comments": []
       },
       {
@@ -88,7 +88,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "3rd row seating, clean title",
-        "photos": ["https://www.jdpower.com/cars/2023/kia/sorento"],
+        "photos": ["https://tinyurl.com/338e3mjc"],
         "comments": []
       },
       {
@@ -101,7 +101,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Leather seats, sunroof",
-        "photos": ["https://www.kbb.com/mazda/cx-5/2022/"],
+        "photos": ["https://tinyurl.com/549xfmk3"],
         "comments": []
       },
       {
@@ -114,7 +114,7 @@
         "transmission": "CVT",
       "fuelType": "Gasoline",
       "description": "AWD, leather seats",
-      "photos": ["https://www.cnet.com/roadshow/reviews/2017-subaru-outback-review/"],
+      "photos": ["https://tinyurl.com/cu7txsz5"],
       "comments": []
       },
       {
@@ -127,7 +127,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Leather seats, navigation",
-        "photos": ["https://www.caranddriver.com/volkswagen/golf-2017"],
+        "photos": ["https://tinyurl.com/ymf6fczz"],
         "comments": []
       },
       {
@@ -140,7 +140,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Leather seats, luxury package",
-        "photos": ["https://www.kbb.com/bmw/3-series/2019/"],
+        "photos": ["https://tinyurl.com/2hcf78wa"],
         "comments": []
       },
       {
@@ -153,7 +153,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Leather seats, luxury package",
-        "photos": ["https://www.digitaltrends.com/cars/2019-mercedes-benz-c-class-sedan/"],
+        "photos": ["https://tinyurl.com/5z3jaw2a"],
         "comments": []
       },
       {
@@ -166,7 +166,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Leather seats, navigation",
-        "photos": ["https://www.cnet.com/roadshow/pictures/2017-audi-a4-sharpens-up-pictures/"],
+        "photos": ["https://tinyurl.com/58cy8es4"],
         "comments": []
       }, 
       {
@@ -179,7 +179,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Leather seats, luxury package",
-        "photos": ["https://www.cars.com/research/lexus-is_300-2019/"],
+        "photos": ["https://tinyurl.com/ydtkcke5"],
         "comments": []
       },
       {
@@ -192,7 +192,7 @@
         "transmission": "CVT",
         "fuelType": "Gasoline",
         "description": "Leather seats, navigation",
-        "photos": ["https://www.cars.com/research/toyota-corolla/"],
+        "photos": ["https://tinyurl.com/4feyercv"],
         "comments": []
       },
       {
@@ -205,7 +205,7 @@
         "transmission": "CVT",
         "fuelType": "Gasoline",
         "description": "Leather seats, navigation",
-        "photos": ["https://www.carvana.com/cars/honda-accord-sedan/2019"],
+        "photos": ["https://tinyurl.com/nhczvwas"],
         "comments": []
       },
       {
@@ -218,7 +218,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, carbon fiber package",
-        "photos": ["https://bringatrailer.com/listing/2018-ferrari-488-gtb-36/"],
+        "photos": ["https://tinyurl.com/mrbrrpvn"],
         "comments": []
       },
       {
@@ -231,7 +231,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, sport package",
-        "photos": ["https://www.carfax.com/Used-2020-Lamborghini-Huracan_z37361"],
+        "photos": ["https://tinyurl.com/2p9vuv8a"],
         "comments": []
       },
       {
@@ -244,7 +244,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, luxury package",
-        "photos": ["https://www.gearpatrol.com/cars/a555878/2019-bentley-continental-gt-convertible-review/"],
+        "photos": ["https://tinyurl.com/2t2x5d2p"],
         "comments": []
       },
       {
@@ -257,7 +257,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, luxury package",
-        "photos": ["https://www.caranddriver.com/rolls-royce/phantom/specs/2020/rolls-royce_phantom_rolls-royce-phantom_2020", "https://example.com/rolls-royce-phantom-2.jpg"],
+        "photos": ["https://tinyurl.com/mry4y7s7"],
         "comments": []
       },
       {
@@ -270,7 +270,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, sport package",
-        "photos": ["https://www.kbb.com/car-news/2019-aston-martin-vantage-revealed/"],
+        "photos": ["https://tinyurl.com/35j7u3n5"],
         "comments": []
       },
       {
@@ -283,7 +283,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, luxury package",
-        "photos": ["https://www.caranddriver.com/maserati/ghibli/specs/2020/maserati_ghibli_maserati-ghibli_2020"],
+        "photos": ["https://tinyurl.com/mrtmyyec"],
         "comments": []
       },
       {
@@ -296,7 +296,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, sport package",
-        "photos": ["https://www.cars.com/research/jaguar-f_type-2019/"],
+        "photos": ["https://tinyurl.com/bdcpt5vt"],
         "comments": []
       },
       {
@@ -309,7 +309,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, luxury package",
-        "photos": ["https://www.caranddriver.com/land-rover/range-rover-2020"],
+        "photos": ["https://tinyurl.com/2p99sh4b"],
         "comments": []
       },
       {
@@ -322,7 +322,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, sport package",
-        "photos": ["https://www.mclarencf.com/used-vehicle-2020-mclaren-720s-spider-luxury-c-37/"],
+        "photos": ["https://tinyurl.com/yw6mxcpc"],
         "comments": []
       },
       {
@@ -335,7 +335,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, luxury package",
-        "photos": ["https://robbreport.com/motors/cars/pagani-huayra-roadster-pagani-geneva-show-car-auction-1234585792/", "https://example.com/pagani-huayra-2.jpg"],
+        "photos": ["https://tinyurl.com/4dv75tmr"] ,
         "comments": []
       },
       {
@@ -348,7 +348,7 @@
         "transmission": "Automatic",
         "fuelType": "Gasoline",
         "description": "Limited edition, sport package",
-        "photos": ["https://www.diariomotor.com/coche/koenigsegg-agera/"],
+        "photos": ["https://tinyurl.com/3udzbvu3"],
         "comments": []
       },
       {
@@ -361,7 +361,7 @@
         "transmission": "Automatic",
         "fuelType": "Electric",
         "description": "Limited edition, luxury package",
-        "photos": ["https://robbreport.com/motors/cars/rimac-concept-two-hypercar-2787793/"],
+        "photos": ["https://tinyurl.com/ms8wabmb"],
         "comments": []
       },
       {
@@ -374,7 +374,7 @@
         "transmission": "Automatic",
         "fuelType": "Electric",
         "description": "Limited edition, luxury package",
-        "photos": ["https://www.caranddriver.com/tesla/model-s-2020"],
+        "photos": ["https://tinyurl.com/zpfxyf4w"],
         "comments": []
       },
       {
@@ -387,7 +387,7 @@
         "transmission": "Automatic",
         "fuelType": "Electric",
         "description": "Limited edition, luxury package",
-        "photos": ["https://electrek.co/guides/lucid-motors/"],
+        "photos": ["https://tinyurl.com/ys92xctx"],
         "comments": []
       },
       {
@@ -400,7 +400,7 @@
         "transmission": "Automatic",
         "fuelType": "Electric",
         "description": "Limited edition, luxury package",
-        "photos": ["https://www.autoexpress.co.uk/fisker/ocean"],
+        "photos": ["https://tinyurl.com/yc2jbncp"],
         "comments": []
       },
       {
@@ -413,7 +413,7 @@
         "transmission": "Automatic",
         "fuelType": "Electric",
         "description": "Limited edition, luxury package",
-        "photos": ["https://www.cars.com/research/rivian-r1t/"],
+        "photos": ["https://tinyurl.com/37c2jjz6"],
         "comments": []
       }
     ]
