@@ -1,18 +1,27 @@
-import React from 'react'
-import './NavBar.css'
+import { useNavigate } from "react-router-dom";
 
 function NavBar() {
-    return (
-        <nav className="navbar">
-          <ul className="nav-list">
-            <li className="nav-item">Top Gear</li>
-            <li className="nav-item">Home</li>
-            <li className="nav-item">About</li>
-            <li className="nav-item">Cars</li>
-            <li className="nav-item">Contact</li>
-          </ul>
-        </nav>
-      );
+
+  const navigate = useNavigate();
+  
+  return (
+    <nav className="navbar">
+      <ul className="nav-list">
+        <li className="nav-item" onClick={() => navigate("/")}>
+          Home
+        </li>
+        <li className="nav-item" onClick={() => navigate("/about")}>
+          About
+        </li>
+        <li className="nav-item" onClick={() => navigate("/cars")}>
+          Cars
+        </li>
+        <li className="nav-item" onClick={() => navigate("/contact")}>
+          Contact
+        </li>
+      </ul>
+    </nav>
+  );
 }
 
-export default NavBar
+export default NavBar;
