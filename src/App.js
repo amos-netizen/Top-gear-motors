@@ -52,7 +52,7 @@ function App() {
   };
 
   const handleCommentsClick = () => {
-    setShowCommentsSection(!showCommentsSection);
+    navigate("#comments");
   };
 
   const handleSortChange = (criteria) => {
@@ -78,24 +78,11 @@ function App() {
             filter="all"
             sortCriteria={sortCriteria}
           />
-          {showBuySection && <BuySection sortCriteria={sortCriteria} />}
-          {showSellSection && <SellSection sortCriteria={sortCriteria} />}
-          {showSortOptions && <SortOptions onSortChange={handleSortChange} />}
+          
           {showCommentsSection && <CommentsSection />}
         </>
       )}
-      {currentPage === "about" && <About />}
-      {currentPage === "contact" && <Contact />}
-      {currentPage === "cars" && (
-        <>
-          <SearchBar searchTerm={searchTerm} onSearch={handleSearch} />
-          <CarList
-            searchTerm={searchTerm}
-            filter="all"
-            sortCriteria={sortCriteria}
-          />
-        </>
-      )}
+      
     </div>
   );
 }
