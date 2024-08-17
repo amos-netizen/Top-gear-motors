@@ -61,6 +61,7 @@ function App() {
               </>
             }
           />
+          <Route path="/buy" element={<BuySection sortCriteria={sortCriteria} />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route
