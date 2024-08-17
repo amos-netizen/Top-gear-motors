@@ -87,10 +87,12 @@ function NavBar() {
         <li className="nav-item"><a href="/about">About</a></li>
         <li className="nav-item"><a href="/cars">Cars</a></li>
         <li className="nav-item"><a href="/contact">Contact</a></li>
+        <li className="nav-item"><a href="/buy">Buy</a></li> {/* Add Buy link here */}
       </ul>
     </nav>
   );
 }
+
 
 function HeroSection({ onBuyClick, onSellClick, onSortClick, onCommentsClick }) {
   return (
@@ -237,5 +239,6 @@ function Contact() {
     </section>
   );
 }
+//buysection,sellsection,sortoptions,commentssection,searchbar,carlist,about,contact
 
 export default App;
